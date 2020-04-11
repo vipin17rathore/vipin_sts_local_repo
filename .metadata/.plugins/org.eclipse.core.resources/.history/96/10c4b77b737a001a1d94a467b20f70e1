@@ -1,0 +1,33 @@
+package com.boa.SpringBootIn28Minutes.service;
+
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+
+import com.boa.SpringBootIn28Minutes.bean.User;
+import com.boa.SpringBootIn28Minutes.bean.Users;
+
+public class UserService {
+
+	public Users getUsers() {
+		return null;
+	}
+
+	public User getUser(int id) {
+		return null;
+	}
+
+	public String addUser(User user) {
+		return null;
+	}
+
+	public User modifyUser(User user) {
+		return null;
+	}
+
+	public String removeUser(int id) {
+	}
+}

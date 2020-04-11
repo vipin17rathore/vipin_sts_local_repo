@@ -1,0 +1,17 @@
+package com.boa.SpringAOP.business.aspect;
+
+import org.aspectj.lang.annotation.Before;
+import org.aspectj.lang.annotation.Aspect;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+@Aspect
+public class Aspect {
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
+
+	@Before(value = "")
+	public void before() {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package organization.demo.org;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class EmpController {
+	
+	public String getData() {
+		
+		return "";
+	}
+}

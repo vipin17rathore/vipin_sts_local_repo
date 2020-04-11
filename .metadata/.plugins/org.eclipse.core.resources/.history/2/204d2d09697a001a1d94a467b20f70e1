@@ -1,0 +1,10 @@
+package com.boa.SpringBootIn28Minutes.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MainController {
+	public String HelloWorld() {
+		return "Hello-World..!!!";
+	}
+}

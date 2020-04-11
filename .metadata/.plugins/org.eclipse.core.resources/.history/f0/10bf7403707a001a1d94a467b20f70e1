@@ -1,0 +1,29 @@
+package com.boa.SpringBootIn28Minutes.dao;
+
+import java.util.List;
+
+import com.boa.SpringBootIn28Minutes.bean.User;
+
+public class UserDao {
+
+	public static List<User> Users;
+
+	static {
+		User user = new User();
+		user.setId(1);
+		user.setMobNo("one two");
+		user.setName("Ram");
+
+		Users.add(user);
+
+		user.setId(2);
+		user.setMobNo("three");
+		user.setName("Ram..12");
+
+		Users.add(user);
+
+		user.setId(3);
+		user.setMobNo("four");
+		user.setName("Ram..12345");
+	}
+}

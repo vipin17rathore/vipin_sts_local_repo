@@ -1,0 +1,5 @@
+package com.boa.SpringAOP.business;
+
+public class Business {
+
+}

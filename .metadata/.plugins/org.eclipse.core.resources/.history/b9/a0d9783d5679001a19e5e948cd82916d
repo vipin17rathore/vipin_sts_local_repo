@@ -1,0 +1,11 @@
+package com.boa.SpringAOP.business.aspect;
+
+import org.aspectj.lang.annotation.Before;
+
+@Aspect
+public class Aspect {
+	@Before
+	public void before() {
+		
+	}
+}

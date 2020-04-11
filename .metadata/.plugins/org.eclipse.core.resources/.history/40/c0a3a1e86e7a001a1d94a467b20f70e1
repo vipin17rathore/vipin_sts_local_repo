@@ -1,0 +1,5 @@
+package com.boa.SpringBootIn28Minutes.service;
+
+public class UserService {
+
+}

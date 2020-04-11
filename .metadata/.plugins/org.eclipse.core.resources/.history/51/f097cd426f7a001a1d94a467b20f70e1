@@ -1,0 +1,8 @@
+package com.boa.SpringBootIn28Minutes.dao;
+
+import com.boa.SpringBootIn28Minutes.bean.User;
+
+public class UserDao {
+	
+	public static Listst<User> Users;
+}

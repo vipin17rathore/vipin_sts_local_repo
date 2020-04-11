@@ -1,0 +1,24 @@
+package com.boa.SpringAOP.business.aspect;
+
+import org.aspectj.lang.annotation.After;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.context.annotation.Configuration;
+
+@Aspect
+@Configuration
+public class AspectClass {
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
+	
+	@Before(value = "execution(* com.boa.SpringAOP.business.*.*(..))")  //pointcut or jointpoint
+	public void before() {
+		logger.info("--->> Before----->>");
+	}
+	
+	@After(value = "execution(* com.boa.SpringAOP.business.*.*(..))")  //pointcut or jointpoint
+	public void after() {
+		logger.info("--->> Before----->>");
+	}
+}

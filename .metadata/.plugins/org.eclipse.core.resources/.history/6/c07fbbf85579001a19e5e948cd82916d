@@ -1,0 +1,8 @@
+package com.boa.SpringAOP.business.aspect;
+
+public class Aspect {
+	
+	public void before() {
+		
+	}
+}

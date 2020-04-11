@@ -1,0 +1,5 @@
+package com.boa.SpringAOP.business.dao;
+
+public class DAO {
+
+}

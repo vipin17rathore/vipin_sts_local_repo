@@ -1,0 +1,14 @@
+package com.boa.SpringBootIn28Minutes.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.boa.SpringBootIn28Minutes.bean.Users;
+
+@RestController
+public class UserController {
+	
+	public Users getUsers() {
+		return 
+	}
+}
