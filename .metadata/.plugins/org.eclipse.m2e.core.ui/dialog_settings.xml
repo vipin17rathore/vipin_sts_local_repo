@@ -30,6 +30,11 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="E:\Workspace_STS\SpringBootIn28Minutes"/>
+			<item value="E:\Workspace_STS\Config-Server-In28Minutes"/>
+			<item value="C:\Users\VICKY\Desktop\temp\SpringBootIn28Minutes_1\"/>
+			<item value="C:\Users\VICKY\Desktop\temp\Config-Server-In28Minutes_1\Config-Server-In28Minutes_1"/>
+			<item value="E:\Workspace_STS\limit-service-In28Minutes\limit-service-In28Minutes"/>
+			<item value="E:\Workspace_STS\Config-Server-In28Minutes\Config-Server-In28Minutes"/>
 			<item value="E:\Workspace_STS\Spring-MVC"/>
 			<item value="E:\Workspace_STS\databbase\databbase"/>
 			<item value="E:\Workspace_STS\ZuulServer"/>
@@ -39,8 +44,6 @@
 			<item value="E:\Workspace_STS\Practice"/>
 			<item value="E:\code\HelloWorldSpringBoot\HelloWorld"/>
 			<item value="E:\code\angular-ser-1\angular-ser-1"/>
-			<item value="E:\code\angular_service\angular_service"/>
-			<item value="E:\Workspace_STS\demo\demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

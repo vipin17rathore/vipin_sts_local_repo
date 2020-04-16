@@ -1,7 +1,0 @@
-package com.boa.SpringAOP.business.dao;
-
-public class DAO {
-	public String getResponse() {
-		return "dao";
-	}
-}

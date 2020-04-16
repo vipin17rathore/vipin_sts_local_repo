@@ -1,6 +1,0 @@
-package com.boa.SpringBootIn28Minutes.dao;
-
-public class UserDao {
-	
-	public static list<User>Users();
-}

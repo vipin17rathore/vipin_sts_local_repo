@@ -1,7 +1,0 @@
-package com.example.demo.repository;
-
-import com.example.demo.entity.Person;
-
-public interface PersonRepository extends org.springframework.data.jpa.repository.JpaRepository<Person, Integer> {
-
-}
