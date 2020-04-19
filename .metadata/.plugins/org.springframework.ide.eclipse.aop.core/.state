@@ -4,7 +4,9 @@
 <aop-project name="Spring-Eureka-Server"/>
 <aop-project name="angular_service"/>
 <aop-project name="Config-Server-In28Minutes"/>
+<aop-project name="Spring-Zuul-Api_GateWay"/>
 <aop-project name="SpringBootIn28Minutes"/>
 <aop-project name="Spring-Eureka-Client"/>
 <aop-project name="SpringJPA"/>
+<aop-project name="Practice"/>
 </aop-reference-model>

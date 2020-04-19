@@ -29,6 +29,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Workspace_STS\Spring-Zuul"/>
 			<item value="E:\Workspace_STS\SpringBootIn28Minutes"/>
 			<item value="E:\Workspace_STS\Config-Server-In28Minutes"/>
 			<item value="C:\Users\VICKY\Desktop\temp\SpringBootIn28Minutes_1\"/>
@@ -43,7 +44,6 @@
 			<item value="E:\Workspace_STS\Eureka Server"/>
 			<item value="E:\Workspace_STS\Practice"/>
 			<item value="E:\code\HelloWorldSpringBoot\HelloWorld"/>
-			<item value="E:\code\angular-ser-1\angular-ser-1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
